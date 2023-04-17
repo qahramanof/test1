@@ -1,0 +1,15 @@
+C:\Users\user\Documents\c# projeleri\bufer\bufer\bin\Debug\net6.0\bufer.exe
+C:\Users\user\Documents\c# projeleri\bufer\bufer\bin\Debug\net6.0\bufer.deps.json
+C:\Users\user\Documents\c# projeleri\bufer\bufer\bin\Debug\net6.0\bufer.runtimeconfig.json
+C:\Users\user\Documents\c# projeleri\bufer\bufer\bin\Debug\net6.0\bufer.dll
+C:\Users\user\Documents\c# projeleri\bufer\bufer\bin\Debug\net6.0\bufer.pdb
+C:\Users\user\Documents\c# projeleri\bufer\bufer\obj\Debug\net6.0\bufer.csproj.AssemblyReference.cache
+C:\Users\user\Documents\c# projeleri\bufer\bufer\obj\Debug\net6.0\bufer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Documents\c# projeleri\bufer\bufer\obj\Debug\net6.0\bufer.AssemblyInfoInputs.cache
+C:\Users\user\Documents\c# projeleri\bufer\bufer\obj\Debug\net6.0\bufer.AssemblyInfo.cs
+C:\Users\user\Documents\c# projeleri\bufer\bufer\obj\Debug\net6.0\bufer.csproj.CoreCompileInputs.cache
+C:\Users\user\Documents\c# projeleri\bufer\bufer\obj\Debug\net6.0\bufer.dll
+C:\Users\user\Documents\c# projeleri\bufer\bufer\obj\Debug\net6.0\refint\bufer.dll
+C:\Users\user\Documents\c# projeleri\bufer\bufer\obj\Debug\net6.0\bufer.pdb
+C:\Users\user\Documents\c# projeleri\bufer\bufer\obj\Debug\net6.0\bufer.genruntimeconfig.cache
+C:\Users\user\Documents\c# projeleri\bufer\bufer\obj\Debug\net6.0\ref\bufer.dll
